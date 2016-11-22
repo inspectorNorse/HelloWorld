@@ -1,0 +1,8 @@
+{
+      "name":"HelloWorld",
+      "description":"My first plugin for fulfillment",
+      "namespace":"HelloWorld",
+      "author":"inspectorNorse",
+      "type":"template",
+      "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
+}
